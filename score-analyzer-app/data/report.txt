@@ -1,0 +1,15 @@
+--- Report generated 2026-09-29 11:09:05 ---
+Games played:  6
+High score:    100 (by Jordan)
+Average score: 77.67
+
+--- Report generated 2026-09-29 11:10:01 ---
+Games played:  8
+High score:    110 (by Sam)
+Average score: 83.88
+
+--- Report generated 2026-09-29 11:11:26 ---
+Games played:  8
+High score:    110 (by Sam)
+Average score: 83.88
+
